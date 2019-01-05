@@ -1,0 +1,8 @@
+{
+  "name": "go.zchee.io",
+  "private": true,
+  "repository": "https://github.com/zchee/go.zchee.io.git",
+  "dependencies": {
+    "firebase-tools": "^6.2.2"
+  }
+}
